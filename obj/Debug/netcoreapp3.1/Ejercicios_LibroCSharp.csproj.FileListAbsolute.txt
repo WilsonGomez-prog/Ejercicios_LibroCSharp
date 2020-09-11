@@ -1,0 +1,13 @@
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.exe
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.deps.json
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.runtimeconfig.json
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.dll
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\bin\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.pdb
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.AssemblyInfo.cs
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.dll
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.pdb
+C:\Users\wilso\source\repos\Ejercicios_LibroCSharp\obj\Debug\netcoreapp3.1\Ejercicios_LibroCSharp.genruntimeconfig.cache
