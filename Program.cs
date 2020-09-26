@@ -33,6 +33,9 @@ namespace Ejercicios_LibroCSharp
             Console.WriteLine("Tarea #2:");
             Console.WriteLine("\tCapitulo 4:\n\t\t4a - Ejercicio #1\n\t\t4b - Ejercicio #2\n\t\t4c - Ejercicio #5");
             Console.WriteLine("\tCapitulo 5:\n\t\t5a - Ejercicio #4\n\t\t5b - Ejercicio #5");
+            Console.WriteLine("Tarea #3:");
+            Console.WriteLine("\tCapitulo 6:\n\t\t6a - Ejercicio #1\n\t\t6b - Ejercicio #2\n\t\t6c - Ejercicio #3\n\t\t6d - Ejercicio #4\n\t\t6e - Ejercicio #5");
+            Console.WriteLine("\tCapitulo 7:\n\t\t7a - Ejercicio #1\n\t\t7b - Ejercicio #2\n\t\t7b - Ejercicio #5");
             Console.Write("Ingrese la opcion que desee: ");
             op = Console.ReadLine();
             Console.Clear();
@@ -89,7 +92,38 @@ namespace Ejercicios_LibroCSharp
                 case "5b":
                     new Ejercicio5_5();
                     break;
+                
+                case "6a":
+                    new Ejercicio6_1();
+                    break;
 
+                case "6b":
+                    new Ejercicio6_2();
+                    break;
+
+                case "6c":
+                    new Ejercicio6_3();
+                    break;
+                
+                case "6d":
+                    new Ejercicio6_4();
+                    break;
+
+                case "6e":
+                    new Ejercicio6_5();
+                    break;
+
+                case "7a":
+                    new Ejercicio7_1();
+                    break;
+
+                case "7b":
+                    new Ejercicio7_2();
+                    break;
+
+                case "7c":
+                    new Ejercicio7_5();
+                    break;
                 default:
                     Console.WriteLine("La opción ingresada aún no esta contemplada dentro de los casos.");
                     break;
