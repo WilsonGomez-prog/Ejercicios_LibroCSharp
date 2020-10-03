@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace Ejercicios_LibroCSharp
 {
     class Program
@@ -148,7 +150,7 @@ namespace Ejercicios_LibroCSharp
                     new Ejercicio9_4();
                     break;
                 default:
-                    Console.WriteLine("La opción ingresada aún no esta contemplada dentro de los casos.");
+                    Console.WriteLine("La opción ingresada aún no esta contemplada dentro de los casos, los casos contemplados estan expresados en el menú.");
                     break;
             }
         }
