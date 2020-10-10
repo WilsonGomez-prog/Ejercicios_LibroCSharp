@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace Ejercicios_LibroCSharp
 {
     class Program
@@ -18,8 +16,9 @@ namespace Ejercicios_LibroCSharp
                 
                 Console.Write("¿Desea volver al menu de nuevo?(Si/No) ");
                 res = Console.ReadLine().Trim();
-
-            } while (res == "Si" || res == "SI" || res == "si" || res == "sI");
+            } 
+            while (res == "Si" || res == "SI" || res == "si" || res == "sI");
+            
             Console.Clear();
             Console.WriteLine("¡Pase buen resto del dia!.");
         }
@@ -44,6 +43,7 @@ namespace Ejercicios_LibroCSharp
             Console.Write("Ingrese la opcion que desee: ");
             op = Console.ReadLine();
             Console.Clear();
+            
             switch (op)
             {
                 case "1a":

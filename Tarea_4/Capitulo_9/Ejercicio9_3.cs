@@ -30,7 +30,7 @@ public class Ejercicio9_3
         foreach (Mascota animal in ListaMascotas)
         {   
             Console.WriteLine($"Mascota #{con}");
-            animal.ToString();
+            Console.WriteLine(animal.ToString());
             con++;
         }
 
@@ -107,7 +107,7 @@ public class Ejercicio9_3
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat($"\nNombre de la mascota: {nombre} \nTipo de animal: {tipoAnimal} \nFecha de nacimiento: {fechaNacimiento.ToString()} \nEdad: {edad} \nInformacion del dueño: {propietario.ToString()}");
+            sb.AppendFormat($"\nNombre de la mascota: {nombre} \nTipo de animal: {tipoAnimal} \nFecha de nacimiento: {fechaNacimiento.Date.ToString()} \nEdad: {edad} \nInformacion del dueño: {propietario.ToString()}");
             return (sb.ToString());
         }
     }

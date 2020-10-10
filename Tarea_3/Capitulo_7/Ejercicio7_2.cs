@@ -30,7 +30,7 @@ public class Ejercicio7_2
 
             if (diccionario.Contains(palabra))
             {
-                definicion = diccionario.Item[palabra];
+                // definicion = diccionario.Item[palabra];
             }
 
             Console.WriteLine($"La definicion de {palabra} es: {definicion}");
